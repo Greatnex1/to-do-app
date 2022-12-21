@@ -79,7 +79,7 @@ function App() {
 
     <br /><br />
     <h1>Hey! What's your plan for today?</h1>
-    <h3>Tick once plan is achieved!</h3>
+    <h3>Tick once plan written here is achieved!</h3>
     <br /><br />
 
     {updateData && updateData ? (
@@ -109,16 +109,16 @@ function App() {
     />  
     
 
-    {/* <div className='qoute'>
+    { <div className='qoute'>
     <p>
         Among the best moment of life, are those moment when you make out plans,
         and then watch them play out..
       </p>
       <p>
-        Write down a plan today....
+        Write down a plan today and make your day worth living....
       </p>
-      <p>@momentithace</p>
-    </div > */}
+      
+    </div > }
       
     </div>
   );
