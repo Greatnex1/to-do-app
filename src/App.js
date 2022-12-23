@@ -112,7 +112,7 @@ function App() {
     { <div className='qoute'>
     <p>
         Among the best moment of life, are those moment when you make out plans,
-        and then watch them play out..
+        and then watch them play out.
       </p>
       <p>
         Write down a plan today and make your day worth living....
