@@ -117,6 +117,8 @@ function App() {
       <p>
         Write down a plan today and make your day worth living....
       </p>
+
+      <p>Copy right reserved (c) 2023</p>
       
     </div > }
       
